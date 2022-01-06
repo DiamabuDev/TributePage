@@ -1,0 +1,49 @@
+body {
+    font-family: monospace;
+    font-size: medium;
+}
+
+#name {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+#subtitulo {
+    text-align: center;
+    font-size: 15px;
+}
+
+#main {
+    background-color: rgb(233, 230, 230);
+    border-radius: 1%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+#img-div {
+    background-color: whitesmoke;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 1%;
+}
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: auto;
+    max-width: 100%;
+}
+
+.font-info {
+    text-align: center;
+    font-size: 16px;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
